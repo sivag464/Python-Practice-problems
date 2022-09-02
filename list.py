@@ -1,4 +1,4 @@
-N = int(input())
+N = 2
 list = []
 for i in range(N):
     tmp = input().split()
